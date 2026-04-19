@@ -99,6 +99,6 @@ https://github.com/mayuragowda150-max/mayura29/blob/main/9b2.png   https://githu
 prg9c output link :https://github.com/mayuragowda150-max/mayura29/blob/main/9c1.png  https://github.com/mayuragowda150-max/mayura29/blob/main/9c2.png   https://github.com/mayuragowda150-max/mayura29/blob/main/9c3.png
 prg10
 
-prg10 output link :
+prg10 output link :https://github.com/mayuragowda150-max/mayura29/blob/main/10a1.png
 
 prg10b output link :

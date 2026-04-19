@@ -93,7 +93,7 @@ prg8b output link :https://github.com/mayuragowda150-max/mayura29/blob/main/8b1.
 https://github.com/mayuragowda150-max/mayura29/blob/main/8b2.png
 prg9
 
-prg9a output link :
+prg9a output link :https://github.com/mayuragowda150-max/mayura29/blob/main/9a.png
 prg9b output link :
 
 prg9c output link :

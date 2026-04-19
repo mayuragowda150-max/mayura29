@@ -74,7 +74,7 @@ tabbedpane1 output link :https://github.com/mayuragowda150-max/mayura29/blob/mai
 
 prg6
 
-factorial output link :
+factorial output link :https://github.com/mayuragowda150-max/mayura29/blob/main/factorial.png
 
 prg6b output link :
 prg6c output ink :

@@ -100,5 +100,5 @@ prg9c output link :https://github.com/mayuragowda150-max/mayura29/blob/main/9c1.
 prg10
 
 prg10 output link :https://github.com/mayuragowda150-max/mayura29/blob/main/10a1.png
-
+https://github.com/mayuragowda150-max/mayura29/blob/main/10a2.png
 prg10b output link :

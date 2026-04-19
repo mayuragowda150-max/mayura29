@@ -83,7 +83,7 @@ prg7
 
 prg7a output link :https://github.com/mayuragowda150-max/mayura29/blob/main/7a1.png
 https://github.com/mayuragowda150-max/mayura29/blob/main/7a2.png
-prg7b output link :
+prg7b output link :https://github.com/mayuragowda150-max/mayura29/blob/main/7b1.png
 
 prg8
 

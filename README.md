@@ -68,7 +68,7 @@ jlistcapitalexample output link :https://github.com/mayuragowda150-max/mayura29/
 
 jlistexample output link :https://github.com/mayuragowda150-max/mayura29/blob/main/jlistexample.png
 
-tabbedpane output link :https://github.com/mayuragowda150-max/mayura29/blob/main/jlistexample.png
+tabbedpane output link :https://github.com/mayuragowda150-max/mayura29/blob/main/tabbedpaneexample.png
 
 tabbedpane1 output link :
 

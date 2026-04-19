@@ -34,25 +34,25 @@ prg3
 
 stringhandlingdemo output link :https://github.com/mayuragowda150-max/mayura29/blob/main/stringhandlingdemo.png
 
-p1 output link :
+p1 output link :https://github.com/mayuragowda150-max/mayura29/blob/main/prg3p1.png
 
-p2 output link :
+p2 output link :https://github.com/mayuragowda150-max/mayura29/blob/main/prg3p2.png
 
-p3 output link :
+p3 output link :https://github.com/mayuragowda150-max/mayura29/blob/main/prg3p3.png
 
-p4 output link :
+p4 output link :https://github.com/mayuragowda150-max/mayura29/blob/main/prg3p4.png
 
-p5 output link :
+p5 output link :https://github.com/mayuragowda150-max/mayura29/blob/main/prg3p5.png
 
-p6 output link :
+p6 output link :https://github.com/mayuragowda150-max/mayura29/blob/main/prg3p6.png
 
-p7 output link :
+p7 output link :https://github.com/mayuragowda150-max/mayura29/blob/main/prg3p7.png
 
-p8 output link :
+p8 output link :https://github.com/mayuragowda150-max/mayura29/blob/main/prg3p8.png
 
-p9 output link :
+p9 output link :https://github.com/mayuragowda150-max/mayura29/blob/main/prg3p9.png
 
-p10 output link :
+p10 output link :https://github.com/mayuragowda150-max/mayura29/blob/main/prg3p10.png
 
 prg4
 

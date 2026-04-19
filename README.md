@@ -96,7 +96,7 @@ prg9
 prg9a output link :https://github.com/mayuragowda150-max/mayura29/blob/main/9a.png
 prg9b output link :https://github.com/mayuragowda150-max/mayura29/blob/main/9b1.png
 https://github.com/mayuragowda150-max/mayura29/blob/main/9b2.png   https://github.com/mayuragowda150-max/mayura29/blob/main/9b3.png 
-prg9c output link :
+prg9c output link :https://github.com/mayuragowda150-max/mayura29/blob/main/9c1.png
 prg10
 
 prg10 output link :

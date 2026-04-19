@@ -64,7 +64,7 @@ imagebuttonexample output link :https://github.com/mayuragowda150-max/mayura29/b
 
 prg5
 
-jlistcapitalexample output link :
+jlistcapitalexample output link :https://github.com/mayuragowda150-max/mayura29/blob/main/jlistcapitalexample.png
 
 jlistexample output link :
 

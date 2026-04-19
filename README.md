@@ -66,7 +66,7 @@ prg5
 
 jlistcapitalexample output link :https://github.com/mayuragowda150-max/mayura29/blob/main/jlistcapitalexample.png
 
-jlistexample output link :
+jlistexample output link :https://github.com/mayuragowda150-max/mayura29/blob/main/jlistexample.png
 
 tabbedpane output link :https://github.com/mayuragowda150-max/mayura29/blob/main/jlistexample.png
 

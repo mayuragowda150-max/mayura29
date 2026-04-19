@@ -70,7 +70,7 @@ jlistexample output link :https://github.com/mayuragowda150-max/mayura29/blob/ma
 
 tabbedpane output link :https://github.com/mayuragowda150-max/mayura29/blob/main/tabbedpaneexample.png
 
-tabbedpane1 output link :
+tabbedpane1 output link :https://github.com/mayuragowda150-max/mayura29/blob/main/tabbedpaneexample1.png
 
 prg6
 

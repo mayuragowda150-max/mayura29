@@ -76,29 +76,38 @@ prg6
 
 factorial output link :https://github.com/mayuragowda150-max/mayura29/blob/main/factorial.png
 
-prg6b output link :
+prg6b output link :https://github.com/mayuragowda150-max/mayura29/blob/main/lab6a1.png  &  https://github.com/mayuragowda150-max/mayura29/blob/main/6a2.png
+
 prg6c output ink :
 
 prg7
 
-prg7a output link :https://github.com/mayuragowda150-max/mayura29/blob/main/7a1.png
+prg7a output link :https://github.com/mayuragowda150-max/mayura29/blob/main/7a1.png  &  
 https://github.com/mayuragowda150-max/mayura29/blob/main/7a2.png
-prg7b output link :https://github.com/mayuragowda150-max/mayura29/blob/main/7b1.png
-https://github.com/mayuragowda150-max/mayura29/blob/main/7b2.png     https://github.com/mayuragowda150-max/mayura29/blob/main/7b3.png   
+
+prg7b output link :https://github.com/mayuragowda150-max/mayura29/blob/main/7b1.png  &  
+https://github.com/mayuragowda150-max/mayura29/blob/main/7b2.png  &   https://github.com/mayuragowda150-max/mayura29/blob/main/7b3.png  
+
 prg8
 
-prg8a output link :https://github.com/mayuragowda150-max/mayura29/blob/main/8a1.png
+prg8a output link :https://github.com/mayuragowda150-max/mayura29/blob/main/8a1.png  &  
 https://github.com/mayuragowda150-max/mayura29/blob/main/8a2.png
-prg8b output link :https://github.com/mayuragowda150-max/mayura29/blob/main/8b1.png
+
+prg8b output link :https://github.com/mayuragowda150-max/mayura29/blob/main/8b1.png  & 
 https://github.com/mayuragowda150-max/mayura29/blob/main/8b2.png
+
 prg9
 
 prg9a output link :https://github.com/mayuragowda150-max/mayura29/blob/main/9a.png
-prg9b output link :https://github.com/mayuragowda150-max/mayura29/blob/main/9b1.png
-https://github.com/mayuragowda150-max/mayura29/blob/main/9b2.png   https://github.com/mayuragowda150-max/mayura29/blob/main/9b3.png 
-prg9c output link :https://github.com/mayuragowda150-max/mayura29/blob/main/9c1.png  https://github.com/mayuragowda150-max/mayura29/blob/main/9c2.png   https://github.com/mayuragowda150-max/mayura29/blob/main/9c3.png
+
+prg9b output link :https://github.com/mayuragowda150-max/mayura29/blob/main/9b1.png & 
+https://github.com/mayuragowda150-max/mayura29/blob/main/9b2.png  &   https://github.com/mayuragowda150-max/mayura29/blob/main/9b3.png 
+
+prg9c output link :https://github.com/mayuragowda150-max/mayura29/blob/main/9c1.png  & https://github.com/mayuragowda150-max/mayura29/blob/main/9c2.png  &  https://github.com/mayuragowda150-max/mayura29/blob/main/9c3.png
+ 
 prg10
 
-prg10 output link :https://github.com/mayuragowda150-max/mayura29/blob/main/10a1.png
+prg10 output link :https://github.com/mayuragowda150-max/mayura29/blob/main/10a1.png  & 
 https://github.com/mayuragowda150-max/mayura29/blob/main/10a2.png
-prg10b output link :https://github.com/mayuragowda150-max/mayura29/blob/main/10b1.png   https://github.com/mayuragowda150-max/mayura29/blob/main/10b2.png  
+
+prg10b output link :https://github.com/mayuragowda150-max/mayura29/blob/main/10b1.png  &  https://github.com/mayuragowda150-max/mayura29/blob/main/10b2.png  

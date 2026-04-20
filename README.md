@@ -78,7 +78,7 @@ factorial output link :https://github.com/mayuragowda150-max/mayura29/blob/main/
 
 prg6b output link :https://github.com/mayuragowda150-max/mayura29/blob/main/lab6a1.png  &  https://github.com/mayuragowda150-max/mayura29/blob/main/6a2.png
 
-prg6c output ink :
+prg6c output ink :https://github.com/mayuragowda150-max/mayura29/blob/main/6c1.png  &  https://github.com/mayuragowda150-max/mayura29/blob/main/6c2.png
 
 prg7
 
